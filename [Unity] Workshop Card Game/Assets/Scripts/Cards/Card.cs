@@ -2,6 +2,10 @@ using UnityEngine;
 
 public class Card : MonoBehaviour
 {
+    // Pour pouvoir être modifiées, les propriétés doivent être en public
+	public string cardName;
+	public int cardValue;
+
     private bool isDragging = false;
     private Vector3 offset;
     private SpriteRenderer highlightRenderer;

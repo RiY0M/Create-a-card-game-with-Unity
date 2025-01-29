@@ -58,7 +58,7 @@ using UnityEngine;
 public class Card : MonoBehaviour
 {
 	// Pour pouvoir être modifiées, les propriétés doivent être en public
-	pûblic string cardName;
+	public string cardName;
 	public int cardValue;
 
     private bool isDragging = false;
