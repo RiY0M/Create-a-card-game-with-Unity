@@ -2,7 +2,7 @@ Votre première mission est de créer une carte. Prenez soin de réaliser propre
 
 ---
 ### 1. Créer un GameObject
-Pour créer un GameObjet, faites clique-droit dans la fenêtre **Hierarchy** (à gauche), une  liste d' ojbjets créables va apparaitre.
+Pour créer un GameObjet, faites clique-droit dans la fenêtre **Hierarchy** (à gauche), une liste d'objets créables va apparaitre.
 
 `2D Object > Sprite > Square`
 
