@@ -1,4 +1,4 @@
-Dans le fichier `Assets/Sprites/Cards/Highlights` vous trouverez 2 images qui vous serviront d'effet de surbrillance. L'objectif est de faire apparaitre cet effet de surbrillance lorsque vous survolez une carte avec votre sourie.
+Dans le fichier `Assets/Sprites/Cards/Highlights` vous trouverez 2 images qui vous serviront d'effet de surbrillance. L'objectif est de faire apparaître cet effet de surbrillance lorsque vous survolez une carte avec votre souris.
 
 ### Étape 1 : Ajouter un Sprite de surbrillance
 1. **Modifier le Prefab de la carte**
