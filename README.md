@@ -1,7 +1,9 @@
 # 🎮 Workshop : Créer un Jeu de Carte avec Unity
 
-Bienvenue dans le repo officiel du Workshop **"Créer un jeu de carte avec Unity"** !  
+Bienvenue dans le repo non-officiel du Workshop **"Créer un jeu de carte avec Unity"** !  
 Ce projet contient toutes les **missions** et **ressources** nécessaires pour apprendre à développer un jeu de cartes en 2D tout en découvrant les mécaniques essentielles de Unity.
+Dans ce repo vous pourrez voir les commits de chaque mission qui m'ont permises d'apprendre Unity et C# !
+Les crédits du projet original vont à (https://github.com/Vivant-G/)[https://github.com/Vivant-G/]
 
 ---
 
