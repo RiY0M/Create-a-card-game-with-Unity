@@ -3,7 +3,7 @@ Une fois votre carte créée, vous allez lui ajouter des fonctionnalités en cr�
 ---
 ### 1. Ajouter un BoxCollider
 
-De la même manière que pour le Sprite renderer, ajoutez un component **BoxCollider2D** à votre GameObject. Celà vous sera également utile plus tard pour détecter les collisions avec d'autres GameObjects.
+De la même manière que pour le Sprite renderer, ajoutez un component **BoxCollider2D** à votre GameObject. Cela vous sera également utile plus tard pour détecter les collisions avec d'autres GameObjects.
 
 ---
 ### 2. Création du script
