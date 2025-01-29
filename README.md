@@ -3,7 +3,7 @@
 Bienvenue dans le repo non-officiel du Workshop **"Créer un jeu de carte avec Unity"** !  
 Ce projet contient toutes les **missions** et **ressources** nécessaires pour apprendre à développer un jeu de cartes en 2D tout en découvrant les mécaniques essentielles de Unity.
 Dans ce repo vous pourrez voir les commits de chaque mission qui m'ont permises d'apprendre Unity et C# !
-Les crédits du projet original vont à (https://github.com/Vivant-G/)[https://github.com/Vivant-G/]
+Les crédits du projet original vont à (https://github.com/Vivant-G/)[https://github.com/Vivant-G/].
 
 ---
 
@@ -71,7 +71,7 @@ Si vous réalisez le workshop sans accompagnement, il est recommandé de s'aider
 ---
 ## 🛠️ Requis
 
-- **Unity** : Version 2022 ou supérieure recommandée.
+- **Unity** : Version 2022 ou supérieure recommandée. La version précise utilisée pour le développement est la 2022.3.8f1
 - **C#** : Notions de base en programmation (variables, conditions, boucles).
 
 ---
