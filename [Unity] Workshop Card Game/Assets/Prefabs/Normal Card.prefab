@@ -117,7 +117,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -145,8 +145,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dadf0a75872dda3469f500dd7b66a3d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cardName: 
+  cardName: Sword
   cardValue: 0
+  cardPrefab: {fileID: 6906773332513838277, guid: 64adfb1a18170da4688f3bf9f0179141, type: 3}
 --- !u!50 &6916327337527612585
 Rigidbody2D:
   serializedVersion: 4

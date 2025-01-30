@@ -229,6 +229,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dadf0a75872dda3469f500dd7b66a3d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cardName: Dragon
+  cardValue: 0
+  cardPrefab: {fileID: 0}
 --- !u!50 &4010315347696915552
 Rigidbody2D:
   serializedVersion: 4

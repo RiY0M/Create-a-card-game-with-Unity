@@ -5,6 +5,7 @@ public class Card : MonoBehaviour
     // Pour pouvoir être modifiées, les propriétés doivent être en public
 	public string cardName;
 	public int cardValue;
+    public GameObject cardPrefab;
 
     private bool isDragging = false;
     private Vector3 offset;
@@ -67,5 +68,22 @@ public class Card : MonoBehaviour
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         mousePosition.z = 0;
         return mousePosition;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        // Vérifie si l'objet qui entre dans la zone est une carte
+        if (collision.gameObject.CompareTag("Card") && isDragging)
+        {
+            if(cardPrefab == null) {
+                Debug.LogWarning("CardPrefab ou DrawPosition non défini !");
+                return;
+            }
+
+            // Créé la carte
+            Instantiate(cardPrefab, this.transform.position, Quaternion.identity);
+            Destroy(collision.gameObject); // Détruit la carte
+            Destroy(gameObject);
+        }
     }
 }
