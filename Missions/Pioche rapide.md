@@ -52,7 +52,7 @@ public class CardShortcuts : MonoBehaviour
 
 ```
 
-Vous pouvez simplement vous inspirer de se script et/ou réutiliser des méthodes déjà créées.
+Vous pouvez simplement vous inspirer de ce script et/ou réutiliser des méthodes déjà créées.
 
 ---
 ### Étape 3 : Configurer les Paramètres dans l’Inspector
